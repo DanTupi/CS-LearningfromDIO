@@ -1,0 +1,16 @@
+C:\workspace\CS-LearningfromDIO\ReviewConcepts00\bin\Debug\net5.0\ReviewConcepts00.exe
+C:\workspace\CS-LearningfromDIO\ReviewConcepts00\bin\Debug\net5.0\ReviewConcepts00.deps.json
+C:\workspace\CS-LearningfromDIO\ReviewConcepts00\bin\Debug\net5.0\ReviewConcepts00.runtimeconfig.json
+C:\workspace\CS-LearningfromDIO\ReviewConcepts00\bin\Debug\net5.0\ReviewConcepts00.runtimeconfig.dev.json
+C:\workspace\CS-LearningfromDIO\ReviewConcepts00\bin\Debug\net5.0\ReviewConcepts00.dll
+C:\workspace\CS-LearningfromDIO\ReviewConcepts00\bin\Debug\net5.0\ref\ReviewConcepts00.dll
+C:\workspace\CS-LearningfromDIO\ReviewConcepts00\bin\Debug\net5.0\ReviewConcepts00.pdb
+C:\workspace\CS-LearningfromDIO\ReviewConcepts00\obj\Debug\net5.0\ReviewConcepts00.csprojAssemblyReference.cache
+C:\workspace\CS-LearningfromDIO\ReviewConcepts00\obj\Debug\net5.0\ReviewConcepts00.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\CS-LearningfromDIO\ReviewConcepts00\obj\Debug\net5.0\ReviewConcepts00.AssemblyInfoInputs.cache
+C:\workspace\CS-LearningfromDIO\ReviewConcepts00\obj\Debug\net5.0\ReviewConcepts00.AssemblyInfo.cs
+C:\workspace\CS-LearningfromDIO\ReviewConcepts00\obj\Debug\net5.0\ReviewConcepts00.csproj.CoreCompileInputs.cache
+C:\workspace\CS-LearningfromDIO\ReviewConcepts00\obj\Debug\net5.0\ReviewConcepts00.dll
+C:\workspace\CS-LearningfromDIO\ReviewConcepts00\obj\Debug\net5.0\ref\ReviewConcepts00.dll
+C:\workspace\CS-LearningfromDIO\ReviewConcepts00\obj\Debug\net5.0\ReviewConcepts00.pdb
+C:\workspace\CS-LearningfromDIO\ReviewConcepts00\obj\Debug\net5.0\ReviewConcepts00.genruntimeconfig.cache

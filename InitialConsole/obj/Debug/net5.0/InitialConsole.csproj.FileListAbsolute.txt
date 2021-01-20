@@ -1,0 +1,16 @@
+C:\workspace\InitialConsole\bin\Debug\net5.0\InitialConsole.exe
+C:\workspace\InitialConsole\bin\Debug\net5.0\InitialConsole.deps.json
+C:\workspace\InitialConsole\bin\Debug\net5.0\InitialConsole.runtimeconfig.json
+C:\workspace\InitialConsole\bin\Debug\net5.0\InitialConsole.runtimeconfig.dev.json
+C:\workspace\InitialConsole\bin\Debug\net5.0\InitialConsole.dll
+C:\workspace\InitialConsole\bin\Debug\net5.0\ref\InitialConsole.dll
+C:\workspace\InitialConsole\bin\Debug\net5.0\InitialConsole.pdb
+C:\workspace\InitialConsole\obj\Debug\net5.0\InitialConsole.csprojAssemblyReference.cache
+C:\workspace\InitialConsole\obj\Debug\net5.0\InitialConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\InitialConsole\obj\Debug\net5.0\InitialConsole.AssemblyInfoInputs.cache
+C:\workspace\InitialConsole\obj\Debug\net5.0\InitialConsole.AssemblyInfo.cs
+C:\workspace\InitialConsole\obj\Debug\net5.0\InitialConsole.csproj.CoreCompileInputs.cache
+C:\workspace\InitialConsole\obj\Debug\net5.0\InitialConsole.dll
+C:\workspace\InitialConsole\obj\Debug\net5.0\ref\InitialConsole.dll
+C:\workspace\InitialConsole\obj\Debug\net5.0\InitialConsole.pdb
+C:\workspace\InitialConsole\obj\Debug\net5.0\InitialConsole.genruntimeconfig.cache
